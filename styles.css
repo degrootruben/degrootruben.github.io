@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: helvetica;
+}
+
+footer {
+    background: #005f6a;
+    padding: 0.5em;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}

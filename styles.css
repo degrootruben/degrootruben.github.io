@@ -4,6 +4,10 @@ body {
     font-family: helvetica;
 }
 
+header {
+    width: 100%;
+}
+    
 header h1 {
     text-align: center;
 }

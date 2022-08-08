@@ -12,8 +12,8 @@ const root = ReactDOM.createRoot(
 root.render(
   <BrowserRouter>
     <Routes>
-      <Route path="/"><App /></Route>
-      <Route path="/tiktok-automate"><TikTokAutomate/></Route>
+      <Route path="/" element={<App />}/>
+      <Route path="/tiktok-automate" element={<TikTokAutomate/>}/>
     </Routes>
   </BrowserRouter>
 );
